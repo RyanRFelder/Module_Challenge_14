@@ -6,7 +6,7 @@ This program includes a test set of machine learning algorithms driven by the sk
 
 Evaluation Report:
 
-In comparing the results of the machine learning efficacy in algorithmic trading for the SVC classifier and the decision tree classifier, the charts below, displaying the strategy v. actual returns of each model, indicate that the SVC classifier's cumulative returns underperform the predictive modeling of the decision tree classifier. For the dataset used in these tests (OHLVC.csv) the DecisionTreeClassifier model proved to be more effective in algorithmic trading performance.
+In comparing the results of the machine learning efficacy in algorithmic trading for the SVC classifier and the decision tree classifier, the charts below, displaying the strategy v. actual returns of each model, indicate that the SVC classifier's cumulative returns underperform the predictive modeling of the decision tree classifier. However, the SVC classifier significantly outperforms the decision tree in predicting specific price change movements. Ultimately, for the dataset used in these tests (OHLVC.csv) the DecisionTreeClassifier model proved to be more effective in overall algorithmic trading performance.
 
 
 <img width="425" alt="Screen Shot 2021-04-11 at 7 12 24 PM" src="https://user-images.githubusercontent.com/75814260/114332140-72980900-9afa-11eb-81d6-07b00ef40b5f.png">
